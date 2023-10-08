@@ -4,7 +4,7 @@
 This project is a simple image gallery created as part of a learning exercise with HTML and CSS. It serves as a practice project to explore web development concepts and gain hands-on experience.
 
 ## Demo
-[Link to Live Demo](https://umakant3525.github.io/img_gallary/)
+[Link to Live Demo]('https://umakant3525.github.io/img_gallary/')
 
 ## Technologies Used
 
